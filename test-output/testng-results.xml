@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20984" started-at="2020-12-23T16:08:46 IST" finished-at="2020-12-23T16:09:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20984" started-at="2020-12-23T16:08:46 IST" finished-at="2020-12-23T16:09:07 IST">
+      <class name="com.OrangeHrm.SauceLab_Integration_Example">
+        <test-method status="PASS" signature="SauceLab_Example()[pri:0, instance:com.OrangeHrm.SauceLab_Integration_Example@2a556333]" name="SauceLab_Example" duration-ms="20529" started-at="2020-12-23T16:08:46 IST" finished-at="2020-12-23T16:09:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceLab_Example -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestResult)[pri:0, instance:com.OrangeHrm.SauceLab_Integration_Example@2a556333]" name="afterTest" is-config="true" duration-ms="392" started-at="2020-12-23T16:09:06 IST" finished-at="2020-12-23T16:09:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SauceLab_Example status=SUCCESS method=SauceLab_Integration_Example.SauceLab_Example()[pri:0, instance:com.OrangeHrm.SauceLab_Integration_Example@2a556333] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.OrangeHrm.SauceLab_Integration_Example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
